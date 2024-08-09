@@ -1,2 +1,3 @@
 # WebScraping-BI
-📈⚽WebScraping e tratamento de dados com Python, utilizando pandas, numpy, BeautifulSoup e requests, sobre o Futebol Brasileiro e visualização com dashboard do PowerBI⚽📈
+### WebScraping e PowerBi: Análise de dados com Python
+📈⚽Desenvolver uma raspagem com Python utilizando a biblioteca requests para capturar uma tabela de uma url, tratar e manipular os dados com as bibliotecas pandas e numpy para montagem de uma base de dados em formato de DataFrame e posterior criação de relatório, apresentação e dashboard com visões estratégicas e insights por meio do PowerBi⚽📈
